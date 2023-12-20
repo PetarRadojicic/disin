@@ -1,7 +1,16 @@
 import React from "react";
+import ReactBeforeSliderComponent from "react-before-after-slider-component";
+import "react-before-after-slider-component/dist/build.css";
 import Link from "next/link";
 
 const BlogGrid = () => {
+  const FIRST_IMAGE = {
+    imageUrl: "/images/blog/blog1.jpg",
+  };
+  const SECOND_IMAGE = {
+    imageUrl: "/images/blog/blog2.jpg",
+  };
+
   return (
     <>
       <div className="blog-area-two pt-100 pb-70">
@@ -10,9 +19,10 @@ const BlogGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog1.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={FIRST_IMAGE}
+                    secondImage={SECOND_IMAGE}
+                  />
                 </div>
               </div>
             </div>
