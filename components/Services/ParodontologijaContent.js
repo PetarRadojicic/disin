@@ -1,6 +1,6 @@
 import React from "react"; 
 
-const ServiceDetailsContent = () => {
+const ParodontologijaContent = () => {
   return (
     <>
       <div className="service-details-area ptb-100">
@@ -8,7 +8,7 @@ const ServiceDetailsContent = () => {
           <div className="services-details-img">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
-            <h2>Our Hospital Always Provide Good Services</h2>
+            <h2>Estetska stomatologija</h2>
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
@@ -80,4 +80,4 @@ const ServiceDetailsContent = () => {
   );
 };
 
-export default ServiceDetailsContent;
+export default ParodontologijaContent;

@@ -3,7 +3,7 @@ import TopHeader from "../components/_App/TopHeader";
 import Navbar from "../components/_App/Navbar";
 import PageBanner from "../components/Common/PageBanner";
 import Footer from "../components/_App/Footer";
-import EstetskaStomatologijaContent from "../components/Services/EstetskaStomatologijaContent";
+import ProtetikaContent from "../components/Services/ProtetikaContent";
 
 const ServiceDetails = () => {
   return (
@@ -20,7 +20,7 @@ const ServiceDetails = () => {
         bgImage="page-title-one"
       />
 
-      <EstetskaStomatologijaContent />
+      <ProtetikaContent />
 
       <Footer />
     </>

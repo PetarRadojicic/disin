@@ -1,13 +1,17 @@
 import React from "react";
 import TopHeader from "../components/_App/TopHeader";
 import Navbar from "../components/_App/Navbar";
-import HeroSlider from "../components/HomeOne/HeroSlider";
-import Stats from "../components/HomeOne/Stats";
-import AboutSection from "../components/HomeOne/AboutSection";
-import Services from "../components/HomeOne/Services";
-import OurExpertise from "../components/HomeOne/OurExpertise";
+import HeroSlider from "../components/Home/HeroSlider";
+import AboutUs from "../components/Home/AboutUs";
+import OurExpertise from "../components/Home/OurExpertise";
+import Services from "../components/Home/Services";
+import HowCovid19Spreads from "../components/Home/HowCovid19Spreads";
+import SymptomsCovid19 from "../components/Home/SymptomsCovid19";
+import FaqSection from "../components/Common/FaqSection";
 import VideoIntro from "../components/Common/VideoIntro";
 import OurDoctors from "../components/Common/OurDoctors";
+import Stats from "../components/Home/Stats";
+import FeedbackSlider from "../components/Home/FeedbackSlider";
 import LatestBlogPost from "../components/Common/LatestBlogPost";
 import NewsletterForm from "../components/Common/NewsletterForm";
 import Footer from "../components/_App/Footer";
@@ -21,21 +25,32 @@ const Index = () => {
 
       <HeroSlider />
 
-      <Stats />
+      <AboutUs />
 
-      <AboutSection />
+      {/* <OurExpertise /> */}
 
       <Services />
 
-      <OurExpertise />
+      <FeedbackSlider />
 
-      <VideoIntro />
+      {/* <HowCovid19Spreads /> */}
+
+      {/* <SymptomsCovid19 /> */}
+
+      {/* <FaqSection /> */}
+
+      {/* <VideoIntro /> */}
 
       <OurDoctors />
 
-      <LatestBlogPost />
+      {/* <div className="pb-100">
+        <Stats />
+      </div> */}
 
-      <NewsletterForm />
+
+      {/* <LatestBlogPost /> */}
+
+      {/* <NewsletterForm /> */}
 
       <Footer />
     </>

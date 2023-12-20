@@ -35,10 +35,26 @@ const Services = () => {
                     <h3>Protetika</h3>
                   </Link>
                   <p>
-                    Protetika se bavi
-                    izradom nadoknada za izgubljene ili oštećene zube, s ciljem
-                    obnavljanja funkcionalnosti, estetike i pacijentovog
-                    samopouzdanja.
+                    Protetika se bavi izradom nadoknada za izgubljene ili
+                    oštećene zube, s ciljem obnavljanja funkcionalnosti,
+                    estetike i pacijentovog samopouzdanja.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-sm-6 col-lg-4">
+              <div className="service-item style-3">
+                <div className="service-front">
+                  <i className="icofont-helicopter"></i>
+                  <Link href="/service-details">
+                    <h3>Ortodoncija</h3>
+                  </Link>
+                  <p>
+                    Među pacijentima popularan termin ortodoncija je zadužen za
+                    uspostavljanje pravilnog odnosa među zubima, što mišiće,
+                    vilični zglob i celokupan sistem za žvakanje održava u
+                    ravnoteži i time postiže adekvatnu fizionomiju lica.
                   </p>
                 </div>
               </div>
