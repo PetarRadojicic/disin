@@ -9,7 +9,7 @@ import "swiper/css";
 import "swiper/css/bundle";
 
 // Global Style
-import "../styles/style.css";
+import "../styles/style.scss";
 import "../styles/responsive.css";
 // Global RTL Style
 import "../styles/rtl.css";
