@@ -3,11 +3,11 @@ import ReactBeforeSliderComponent from "react-before-after-slider-component";
 import "react-before-after-slider-component/dist/build.css";
 import Link from "next/link";
 
-const BlogGrid = () => {
-  const FIRST_IMAGE = {
+const GalerijaGrid = () => {
+  const img1_1 = {
     imageUrl: "/images/blog/blog1.jpg",
   };
-  const SECOND_IMAGE = {
+  const img1_2  = {
     imageUrl: "/images/blog/blog2.jpg",
   };
 
@@ -20,8 +20,8 @@ const BlogGrid = () => {
               <div className="blog-item">
                 <div className="blog-top">
                   <ReactBeforeSliderComponent
-                    firstImage={FIRST_IMAGE}
-                    secondImage={SECOND_IMAGE}
+                    firstImage={img1_1}
+                    secondImage={img1_2}
                   />
                 </div>
               </div>
@@ -113,4 +113,4 @@ const BlogGrid = () => {
   );
 };
 
-export default BlogGrid;
+export default GalerijaGrid;

@@ -3,7 +3,7 @@ import TopHeader from "../components/_App/TopHeader";
 import Navbar from "../components/_App/Navbar";
 import PageBanner from "../components/Common/PageBanner";
 import Footer from "../components/_App/Footer";
-import BlogGrid from "../components/Blog/BlogGrid";
+import GalerijaGrid from "../components/Blog/GalerijaGrid";
 
 const Blog = () => {
   return (
@@ -20,7 +20,7 @@ const Blog = () => {
         bgImage="page-title-four"
       />
 
-      <BlogGrid />
+      <GalerijaGrid />
 
       <Footer />
     </>
