@@ -27,29 +27,30 @@ const Index5 = () => {
 
       <AboutUs />
 
-      <OurExpertise />
+      {/* <OurExpertise /> */}
 
       <Services />
 
-      <HowCovid19Spreads />
+      <FeedbackSlider />
 
-      <SymptomsCovid19 />
+      {/* <HowCovid19Spreads /> */}
 
-      <FaqSection />
+      {/* <SymptomsCovid19 /> */}
 
-      <VideoIntro />
+      {/* <FaqSection /> */}
+
+      {/* <VideoIntro /> */}
 
       <OurDoctors />
 
-      <div className="pb-100">
+      {/* <div className="pb-100">
         <Stats />
-      </div>
+      </div> */}
 
-      <FeedbackSlider />
 
-      <LatestBlogPost />
+      {/* <LatestBlogPost /> */}
 
-      <NewsletterForm />
+      {/* <NewsletterForm /> */}
 
       <Footer />
     </>

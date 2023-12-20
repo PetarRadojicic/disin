@@ -7,7 +7,7 @@ const Services = () => {
       <div className="services-area service-area-two pb-70">
         <div className="container">
           <div className="section-title">
-            <h2>Get Special Services For Covid-19</h2>
+            <h2>Naše usluge</h2>
           </div>
 
           <div className="row justify-content-center">
@@ -16,11 +16,12 @@ const Services = () => {
                 <div className="service-front">
                   <i className="icofont-doctor"></i>
                   <Link href="/service-details">
-                    <h3>Expert Doctors</h3>
+                    <h3>Estetska stomatologija</h3>
                   </Link>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod
+                    Estetska stomatologija predstavlja oblast stomatologije koja
+                    se fokusira na poboljšanje izgleda zuba, desni i celokupnog
+                    oralnog estetskog doživljaja.
                   </p>
                 </div>
               </div>
@@ -31,11 +32,13 @@ const Services = () => {
                 <div className="service-front">
                   <i className="icofont-helicopter"></i>
                   <Link href="/service-details">
-                    <h3>Emergency Helicopter</h3>
+                    <h3>Protetika</h3>
                   </Link>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod
+                    Protetika se bavi
+                    izradom nadoknada za izgubljene ili oštećene zube, s ciljem
+                    obnavljanja funkcionalnosti, estetike i pacijentovog
+                    samopouzdanja.
                   </p>
                 </div>
               </div>
@@ -46,11 +49,11 @@ const Services = () => {
                 <div className="service-front">
                   <i className="icofont-architecture"></i>
                   <Link href="/service-details">
-                    <h3>Leading Technology</h3>
+                    <h3>Rekonstruktivna stomatologija i endodoncija</h3>
                   </Link>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod
+                    Rekonstruktivna stomatologija se bavi obnovom oštećenih
+                    zuba, dok se endodoncija fokusira na lečenje zuba iznutra.
                   </p>
                 </div>
               </div>
@@ -61,11 +64,12 @@ const Services = () => {
                 <div className="service-front">
                   <i className="icofont-user-male"></i>
                   <Link href="/service-details">
-                    <h3>24 Hours Open</h3>
+                    <h3>Dečja i preventivna stomatologija</h3>
                   </Link>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod
+                    Dečja stomatologija se brine o oralnom zdravlju dece, dok
+                    preventivna stomatologija sprečava probleme pre nego što se
+                    pojave.
                   </p>
                 </div>
               </div>
@@ -76,11 +80,11 @@ const Services = () => {
                 <div className="service-front">
                   <i className="icofont-ambulance-cross"></i>
                   <Link href="/service-details">
-                    <h3>Free Ambulance</h3>
+                    <h3>Oralna hirurgija i implantologija</h3>
                   </Link>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod
+                    Oralna hirurgija obuhvata operacije usne šupljine, dok
+                    implantologija se bavi postavljanjem zubnih implantata.
                   </p>
                 </div>
               </div>
@@ -91,11 +95,11 @@ const Services = () => {
                 <div className="service-front">
                   <i className="icofont-ambulance-cross"></i>
                   <Link href="/service-details">
-                    <h3>Free Ambulance</h3>
+                    <h3>Parodontologija</h3>
                   </Link>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod
+                    Parodontologija se bavi prevencijom, dijagnozom i lečenjem
+                    bolesti desni i potpornog aparata zuba.
                   </p>
                 </div>
               </div>
@@ -106,11 +110,11 @@ const Services = () => {
                 <div className="service-front">
                   <i className="icofont-home"></i>
                   <Link href="/service-details">
-                    <h3>Home Advise</h3>
+                    <h3>Dentalni turizam</h3>
                   </Link>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod
+                    Dentalni turizam omogućava pacijentima da kombinuju lečenje
+                    sa putovanjem i boravkom u lepim destinacijama.
                   </p>
                 </div>
               </div>

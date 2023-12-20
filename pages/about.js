@@ -29,13 +29,13 @@ const About = () => {
 
       <FunFacts />
  
-      <OurExpertise />
+      {/* <OurExpertise /> */}
 
-      <Services />
+      {/* <Services /> */}
 
-      <TestimonialSlider />
+      {/* <TestimonialSlider /> */}
 
-      <LatestBlogPost />
+      {/* <LatestBlogPost /> */}
 
       <Footer />
     </>

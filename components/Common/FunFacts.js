@@ -1,6 +1,6 @@
-import React from "react"; 
+import React from "react";
 
-const FunFacts = () => {
+const Zanimljivosti = () => {
   return (
     <>
       <div className="counter-area counter-bg counter-area-four">
@@ -8,35 +8,35 @@ const FunFacts = () => {
           <div className="row justify-content-center">
             <div className="col-sm-6 col-lg-3">
               <div className="counter-item">
-                <i className="icofont-patient-bed"></i>
-                <h3 className="counter">850</h3>
-                <p>Patients Beds</p>
+                <i className="icofont-tooth"></i>
+                <h3 className="counter">1500</h3>
+                <p>Sjajnih Osmeha</p>
               </div>
             </div>
-            
+
             <div className="col-sm-6 col-lg-3">
               <div className="counter-item">
-                <i className="icofont-people"></i>
+                <i className="icofont-laughing"></i>
                 <h3>
-                  <span className="counter">25000</span>+
+                  <span className="counter">5000</span>+
                 </h3>
-                <p>Happy Patients</p>
+                <p>Zadovoljnih Pacijenata</p>
               </div>
             </div>
 
             <div className="col-sm-6 col-lg-3">
               <div className="counter-item">
-                <i className="icofont-doctor-alt"></i>
-                <h3 className="counter">750</h3>
-                <p>Doctors & Nurse</p>
+                <i className="icofont-stethoscope"></i>
+                <h3 className="counter">100</h3>
+                <p>Stomatoloških Stručnjaka</p>
               </div>
             </div>
 
             <div className="col-sm-6 col-lg-3">
               <div className="counter-item">
-                <i className="icofont-badge"></i>
-                <h3 className="counter">18</h3>
-                <p>Year Experience</p>
+                <i className="icofont-calendar"></i>
+                <h3 className="counter">10</h3>
+                <p>Godina Stomatološkog Iskustva</p>
               </div>
             </div>
           </div>
@@ -46,4 +46,4 @@ const FunFacts = () => {
   );
 };
 
-export default FunFacts;
+export default Zanimljivosti;

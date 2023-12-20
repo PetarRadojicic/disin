@@ -1,7 +1,7 @@
-import React from "react"; 
+import React from "react";
 // import Link from "next/link";
 
-const AboutContent = () => {
+const AboutUs = () => {
   return (
     <>
       <div className="about-area pt-100 pb-70">
@@ -57,4 +57,4 @@ const AboutContent = () => {
   );
 };
 
-export default AboutContent;
+export default AboutUs;

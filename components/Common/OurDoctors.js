@@ -7,7 +7,7 @@ const OurDoctors = () => {
       <div className="doctors-area ptb-100">
         <div className="container">
           <div className="section-title">
-            <h2>Meet Our Doctors</h2>
+            <h2>Upoznaj naše doktore</h2>
           </div>
 
           <div className="row justify-content-center">
@@ -58,7 +58,7 @@ const OurDoctors = () => {
           </div>
 
           <div className="doctor-btn">
-            <Link href="/doctor-details">See All</Link>
+            <Link href="/doctor-details">Pogledaj sve</Link>
           </div>
         </div>
       </div>
