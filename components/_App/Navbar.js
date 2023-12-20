@@ -170,70 +170,24 @@ const Navbar = () => {
 
                   <li className="nav-item">
                     <Link
-                      href="#"
-                      onClick={(e) => e.preventDefault()}
-                      className="nav-link dropdown-toggle"
+                      href="/doctors/"
+                      className={`nav-link ${
+                        currentPath == "/doctors/" && "active"
+                      }`}
                     >
-                      Doctors
+                      Doktori
                     </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link
-                          href="/doctors/"
-                          className={`nav-link ${
-                            currentPath == "/doctors/" && "active"
-                          }`}
-                        >
-                          Doctors
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/doctor-details/"
-                          className={`nav-link ${
-                            currentPath == "/doctor-details/" && "active"
-                          }`}
-                        >
-                          Doctor Details
-                        </Link>
-                      </li>
-                    </ul>
                   </li>
 
                   <li className="nav-item">
                     <Link
-                      href="#"
-                      onClick={(e) => e.preventDefault()}
-                      className="nav-link dropdown-toggle"
+                      href="/galerija/"
+                      className={`nav-link ${
+                        currentPath == "/galerija/" && "active"
+                      }`}
                     >
-                      Blog
+                      Galerija
                     </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link
-                          href="/blog/"
-                          className={`nav-link ${
-                            currentPath == "/blog/" && "active"
-                          }`}
-                        >
-                          Blog
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/blog-details/"
-                          className={`nav-link ${
-                            currentPath == "/blog-details/" && "active"
-                          }`}
-                        >
-                          Blog Details
-                        </Link>
-                      </li>
-                    </ul>
                   </li>
 
                   <li className="nav-item">
@@ -243,25 +197,10 @@ const Navbar = () => {
                         currentPath == "/blog/" && "active"
                       }`}
                     >
-                      Contact
+                      Kontakt
                     </Link>
                   </li>
                 </ul>
-              </div>
-
-              <div className="nav-srh">
-                <form>
-                  <input
-                    type="text"
-                    className="form-control"
-                    id="search"
-                    placeholder="Search..."
-                  />
-
-                  <button className="search-icon icon-search">
-                    <i className="icofont-search-1"></i>
-                  </button>
-                </form>
               </div>
             </nav>
           </div>

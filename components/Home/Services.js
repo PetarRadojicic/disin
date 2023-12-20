@@ -19,9 +19,8 @@ const Services = () => {
                     <h3>Estetska stomatologija</h3>
                   </Link>
                   <p>
-                    Estetska stomatologija predstavlja oblast stomatologije koja
-                    se fokusira na poboljšanje izgleda zuba, desni i celokupnog
-                    oralnog estetskog doživljaja.
+                    Estetska stomatologija obuhvata širok spektar procedura koje
+                    poboljšavaju izgled zuba i osmeha pacijenata.
                   </p>
                 </div>
               </div>
@@ -35,9 +34,8 @@ const Services = () => {
                     <h3>Protetika</h3>
                   </Link>
                   <p>
-                    Protetika se bavi izradom nadoknada za izgubljene ili
-                    oštećene zube, s ciljem obnavljanja funkcionalnosti,
-                    estetike i pacijentovog samopouzdanja.
+                    Protetika se bavi nadoknadom nedostajućih zuba, popravkom
+                    oštećenih zuba i poboljšanjem funkcionalnosti usta.
                   </p>
                 </div>
               </div>
@@ -51,10 +49,8 @@ const Services = () => {
                     <h3>Ortodoncija</h3>
                   </Link>
                   <p>
-                    Među pacijentima popularan termin ortodoncija je zadužen za
-                    uspostavljanje pravilnog odnosa među zubima, što mišiće,
-                    vilični zglob i celokupan sistem za žvakanje održava u
-                    ravnoteži i time postiže adekvatnu fizionomiju lica.
+                    Ortodoncija se bavi ispravljanjem nepravilnog položaja
+                    zuba i vilica kako bi se postigao pravilan zagrižaj.
                   </p>
                 </div>
               </div>
@@ -68,8 +64,8 @@ const Services = () => {
                     <h3>Rekonstruktivna stomatologija i endodoncija</h3>
                   </Link>
                   <p>
-                    Rekonstruktivna stomatologija se bavi obnovom oštećenih
-                    zuba, dok se endodoncija fokusira na lečenje zuba iznutra.
+                    Rekonstruktivna stomatologija se bavi popravkom oštećenih
+                    zuba, dok endodoncija tretira oboljele zubne nerve.
                   </p>
                 </div>
               </div>
@@ -83,9 +79,8 @@ const Services = () => {
                     <h3>Dečja i preventivna stomatologija</h3>
                   </Link>
                   <p>
-                    Dečja stomatologija se brine o oralnom zdravlju dece, dok
-                    preventivna stomatologija sprečava probleme pre nego što se
-                    pojave.
+                    Dečja stomatologija se fokusira na brigu o oralnom zdravlju
+                    dece, dok preventivna stomatologija sprečava probleme.
                   </p>
                 </div>
               </div>
@@ -99,8 +94,8 @@ const Services = () => {
                     <h3>Oralna hirurgija i implantologija</h3>
                   </Link>
                   <p>
-                    Oralna hirurgija obuhvata operacije usne šupljine, dok
-                    implantologija se bavi postavljanjem zubnih implantata.
+                    Oralna hirurgija obuhvata različite hirurške zahvate, dok se
+                    implantologija bavi ugradnjom zubnih implanta.
                   </p>
                 </div>
               </div>
@@ -114,8 +109,8 @@ const Services = () => {
                     <h3>Parodontologija</h3>
                   </Link>
                   <p>
-                    Parodontologija se bavi prevencijom, dijagnozom i lečenjem
-                    bolesti desni i potpornog aparata zuba.
+                    Parodontologija se bavi lečenjem oboljenja desni i
+                    potpornog aparata zuba.
                   </p>
                 </div>
               </div>
@@ -130,7 +125,7 @@ const Services = () => {
                   </Link>
                   <p>
                     Dentalni turizam omogućava pacijentima da kombinuju lečenje
-                    sa putovanjem i boravkom u lepim destinacijama.
+                    sa uživanjem u turističkim atrakcijama.
                   </p>
                 </div>
               </div>
@@ -141,5 +136,4 @@ const Services = () => {
     </>
   );
 };
-
 export default Services;

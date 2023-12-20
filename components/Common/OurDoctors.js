@@ -15,7 +15,6 @@ const OurDoctors = () => {
               <div className="doctor-item">
                 <div className="doctor-top">
                   <img src="/images/doctors/doctor1.jpg" alt="Doctor" />
-                  <Link href="/appointment">Get Appointment</Link>
                 </div>
                 <div className="doctor-bottom">
                   <h3>
@@ -30,7 +29,6 @@ const OurDoctors = () => {
               <div className="doctor-item">
                 <div className="doctor-top">
                   <img src="/images/doctors/doctor2.jpg" alt="Doctor" />
-                  <Link href="/appointment">Get Appointment</Link>
                 </div>
                 <div className="doctor-bottom">
                   <h3>
@@ -45,7 +43,6 @@ const OurDoctors = () => {
               <div className="doctor-item">
                 <div className="doctor-top">
                   <img src="/images/doctors/doctor3.jpg" alt="Doctor" />
-                  <Link href="/appointment">Get Appointment</Link>
                 </div>
                 <div className="doctor-bottom">
                   <h3>
@@ -58,7 +55,7 @@ const OurDoctors = () => {
           </div>
 
           <div className="doctor-btn">
-            <Link href="/doctor-details">Pogledaj sve</Link>
+            <Link href="/doctors/">Pogledaj sve</Link>
           </div>
         </div>
       </div>

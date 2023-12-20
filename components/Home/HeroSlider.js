@@ -26,15 +26,7 @@ const HeroSlider = () => {
               <div className="d-table-cell">
                 <div className="container">
                   <div className="slider-text">
-                    <span>Stay Safe &</span>
-                    <h1>Be Informed About Covid-19</h1>
-
-                    {/* <div className="common-btn">
-                      <Link href="/appointment">Get Appointment</Link>
-                      <Link href="/about" className="cmn-btn-right">
-                        Learn More
-                      </Link>
-                    </div> */}
+                    <h1>Stomatološka Ordinacija Dentum</h1>
                   </div>
                 </div>
               </div>
@@ -53,15 +45,7 @@ const HeroSlider = () => {
               <div className="d-table-cell">
                 <div className="container">
                   <div className="slider-text">
-                    <span>Stay Safe &</span>
-                    <h1>Be Aware About Covid-19</h1>
-
-                    {/* <div className="common-btn">
-                      <Link href="/appointment">Get Appointment</Link>
-                      <Link href="/about" className="cmn-btn-right">
-                        Learn More
-                      </Link>
-                    </div> */}
+                    <h1>Sjajni Osmesi, Zdravlje Ulepšano</h1>
                   </div>
                 </div>
               </div>

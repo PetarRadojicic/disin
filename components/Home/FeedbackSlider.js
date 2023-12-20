@@ -16,12 +16,10 @@ const FeedbackSlider = () => {
               <div className="feedback-item">
                 <div className="client-img">
                   <img src="/images/clients/client1.png" alt="Feedback" />
-                  <h3>Adision Smith</h3>
+                  <h3>Aleksandar Jovanović</h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
+                  Zahvaljujući ordinaciji Dentum, moj osmeh sada blista! Osoblje je izuzetno ljubazno i profesionalno, a stomatolozi su veoma pažljivi i efikasni u svom radu. Sjajna atmosfera i moderna oprema čine posetu stomatologu pravim zadovoljstvom.
                 </p>
               </div>
             </SwiperSlide>
@@ -30,12 +28,10 @@ const FeedbackSlider = () => {
               <div className="feedback-item">
                 <div className="client-img">
                   <img src="/images/clients/client2.png" alt="Feedback" />
-                  <h3>John Cena</h3>
+                  <h3>Milan Petrović</h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
+                  Stomatološka ordinacija Dentum pružila mi je izuzetno pozitivno iskustvo. Stručno osoblje je posvećeno pacijentima, pružajući brzu i bezbolnu uslugu. Sada mogu sa osmehom da kažem da sam pronašao svoju stomatološku ordinaciju iz snova.
                 </p>
               </div>
             </SwiperSlide>
@@ -44,26 +40,10 @@ const FeedbackSlider = () => {
               <div className="feedback-item">
                 <div className="client-img">
                   <img src="/images/clients/client3.png" alt="Feedback" />
-                  <h3>Mac Smith</h3>
+                  <h3>Marko Popović</h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                </p>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="feedback-item">
-                <div className="client-img">
-                  <img src="/images/clients/client4.png" alt="Feedback" />
-                  <h3>Shane Watson</h3>
-                </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
+                  Iskustvo u ordinaciji Dentum je fantastično. Profesionalnost, ljubaznost i visok kvalitet usluge čine ovu ordinaciju izuzetnom. Preporučila bih je svima koji traže vrhunsku stomatološku negu.
                 </p>
               </div>
             </SwiperSlide>
