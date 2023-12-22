@@ -5,18 +5,16 @@ import PageBanner from "../components/Common/PageBanner";
 import Footer from "../components/_App/Footer";
 import EstetskaStomatologijaContent from "../components/Services/EstetskaStomatologijaContent";
 
-const ServiceDetails = () => {
+const EstetskaStomatologija = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Service Details"
+        pageTitle="Estetska Stomatologija"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Service Details"
+        homePageText="Početna"
+        activePageText="Estetska Stomatologija"
         bgImage="page-title-one"
       />
 
@@ -27,4 +25,4 @@ const ServiceDetails = () => {
   );
 };
 
-export default ServiceDetails;
+export default EstetskaStomatologija;

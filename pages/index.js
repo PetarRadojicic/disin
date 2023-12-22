@@ -19,8 +19,6 @@ import Footer from "../components/_App/Footer";
 const Index = () => {
   return (
     <>
-      {/* <TopHeader /> */}
-
       <Navbar />
 
       <HeroSlider />

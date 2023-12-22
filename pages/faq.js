@@ -14,8 +14,6 @@ import {
 const Faq = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

@@ -1,5 +1,4 @@
 import React from "react";
-import TopHeader from "../components/_App/TopHeader";
 import Navbar from "../components/_App/Navbar";
 import PageBanner from "../components/Common/PageBanner";
 import Footer from "../components/_App/Footer";
@@ -8,15 +7,13 @@ import RekonstruktivnaStomatologijaIEndodoncijaContent from "../components/Servi
 const ServiceDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Service Details"
+        pageTitle="Rekonstruktivna stomatologija i endodoncija"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Service Details"
+        homePageText="Početna"
+        activePageText="Rekonstruktivna stomatologija i endodoncija"
         bgImage="page-title-one"
       />
 

@@ -6,18 +6,16 @@ import Footer from "../components/_App/Footer";
 import FunFacts from "../components/Common/FunFacts";
 import AboutContent from "../components/About/AboutContent";
 
-const About = () => {
+const ONama = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="About"
+        pageTitle="O Nama"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="About"
+        homePageText="Početna"
+        activePageText="O Nama"
         bgImage="page-title-one"
       />
 
@@ -38,4 +36,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default ONama;

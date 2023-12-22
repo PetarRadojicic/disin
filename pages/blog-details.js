@@ -9,8 +9,6 @@ import BlogDetailsContent from "../components/Blog/BlogDetailsContent";
 const BlogDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

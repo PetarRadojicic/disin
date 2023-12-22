@@ -1,4 +1,4 @@
-import React from "react"; 
+import React from "react";
 
 const ParodontologijaContent = () => {
   return (
@@ -8,41 +8,20 @@ const ParodontologijaContent = () => {
           <div className="services-details-img">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
-            <h2>Estetska stomatologija</h2>
+            <h2>Parodontologija</h2>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              Parodontologija je grana stomatologije koja se bavi prevencijom i
+              lečenjem potpornog aparata zuba. Naučno je dokazano da 50%
+              populacije podleže oboljenju parodoncijuma. Konvencionalna
+              parodontološka terapija podrazumeva uklanjanje mekih naslaga,
+              zubnog kamenca, subgingivalnih konkremenata i kiretažu
+              parodontalnih džepova. Peskiranjem se dubinski ispiraju
+              parodontalni džepovi, postiže se efekat poliranja i uklanjanjaju
+              se pigmentacije sa gledji.
             </p>
-
-            <blockquote>
-              <i className="icofont-quote-left"></i>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint
-              optio rem magni, dolorum aut vel nostrum quae, fugit
-              necessitatibus eius perferendis. Quia optio tenetur pariatur
-              aliquam obcaecati enim quam eum?Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Sint optio rem magni, dolorum aut
-              vel nostrum quae, fugit necessitatibus eius perferendis. Quia
-              optio tenetur pariatur aliquam obcaecati enim quam eum?
-            </blockquote>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              Pravovremeno prepoznavanje simptoma oboljenja i primena terapije
+              imaju krucijalan znacaj za tok bolesti.
             </p>
           </div>
 
@@ -54,22 +33,22 @@ const ParodontologijaContent = () => {
             </div>
             <div className="col-lg-7">
               <div className="service-details-inner">
-                <h2>We Always Take Care Our Patient</h2>
+                <h2>Hirurski vid terapije</h2>
                 <p>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Architecto blanditiis obcaecati veritatis magnam pariatur
-                  molestiae in maxime. Animi quae vitae in inventore. Totam
-                  mollitia aspernatur provident veniam aperiam placeat impedit!
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Saepe rem natus nobis, dolorum nam excepturi iure autem nemo
-                  ducimus temporibus facere, est eum voluptatem, culpa optio
-                  fugit assumenda quod? Praesentium.
+                  je neophodan ukoliko je i nakon ordinacijskog uklanjanja
+                  naslaga inflamacija i dalje prisutna.
                 </p>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Id,
-                  laudantium ullam, iure distinctio officia libero voluptatem
-                  obcaecati vero deleniti minima nemo itaque alias nisi eveniet
-                  soluta architecto quae laboriosam unde.
+                  U parodontalnoj hirurgiji najzastupljenija je režanj operacija
+                  čiji je krajnji cilj učvršćavanje zuba i regeneracija mekih
+                  tkiva.
+                </p>
+                <p>
+                  U hiruskom terapijskom segmentu je i korekcija “gummy smile”
+                  (urodjena anomalija desni u zoni prednjih gornjih zuba koja
+                  bitno kvari estetiku osmeha). Hiruskim postupcima se u
+                  harmoniju dovode gingivalni zeniti i na taj nacin koriguje
+                  osmeh.
                 </p>
               </div>
             </div>

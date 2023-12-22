@@ -8,8 +8,6 @@ import Footer from "../components/_App/Footer";
 const DoctorDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
@@ -44,26 +42,8 @@ const DoctorDetails = () => {
                     </li>
                   </ul>
                 </div>
-
                 <div className="doctor-details-work">
-                  <h3>Working hours</h3>
                   <div className="appointment-item-two-right">
-                    <div className="appointment-item-content">
-                      <ul>
-                        <li>
-                          Monday <span>9:00 AM - 8:00 PM</span>
-                        </li>
-                        <li>
-                          Tuesday <span>9:00 AM - 8:00 PM</span>
-                        </li>
-                        <li>
-                          Wednesday <span>9:00 AM - 8:00 PM</span>
-                        </li>
-                        <li>
-                          Sunday <span>9:00 AM - 8:00 PM</span>
-                        </li>
-                      </ul>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -145,10 +125,6 @@ const DoctorDetails = () => {
             </div>
           </div>
         </div>
-      </div>
-
-      <div className="pb-100">
-        <AppointmentFormTwo />
       </div>
 
       <Footer />

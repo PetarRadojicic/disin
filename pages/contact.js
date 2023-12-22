@@ -10,8 +10,6 @@ import Footer from "../components/_App/Footer";
 const Contact = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

@@ -8,15 +8,13 @@ import ParodontologijaContent from "../components/Services/ParodontologijaConten
 const ServiceDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Service Details"
+        pageTitle="Parodontologija"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Service Details"
+        homePageText="Početna"
+        activePageText="Parodontologija"
         bgImage="page-title-one"
       />
 

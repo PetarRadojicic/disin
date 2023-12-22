@@ -8,15 +8,13 @@ import ProtetikaContent from "../components/Services/ProtetikaContent";
 const ServiceDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Service Details"
+        pageTitle="Protetika"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Service Details"
+        homePageText="Početna"
+        activePageText="Protetika"
         bgImage="page-title-one"
       />
 

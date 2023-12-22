@@ -8,57 +8,15 @@ import Link from "next/link";
 const Doctors = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Meet Our Qualified Doctors"
+        pageTitle="Upoznajte naše doktore"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Doctors"
+        homePageText="Početna"
+        activePageText="Doktori"
         bgImage="page-title-five"
       />
-
-      <div className="doctor-search-area">
-        <div className="container">
-          <form>
-            <div className="row doctor-search-wrap">
-              <div className="col-sm-6 col-lg-6">
-                <div className="doctor-search-item">
-                  <div className="form-group">
-                    <i className="icofont-doctor-alt"></i>
-                    <label>Search</label>
-                    <input
-                      type="text"
-                      className="form-control"
-                      placeholder="Doctor Name"
-                    />
-                  </div>
-                  <button type="submit" className="btn doctor-search-btn">
-                    <i className="icofont-search-1"></i>
-                  </button>
-                </div>
-              </div>
-
-              <div className="col-sm-6 col-lg-6">
-                <div className="doctor-search-item">
-                  <div className="form-group">
-                    <i className="icofont-hospital"></i>
-                    <label>Category</label>
-                    <select className="form-control">
-                      <option>Neurosurgeon</option>
-                      <option>Cardiology</option>
-                      <option>Pathology</option>
-                      <option>Dental Care</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
 
       <div className="doctors-area doctors-area-two pt-100 pb-70">
         <div className="container">

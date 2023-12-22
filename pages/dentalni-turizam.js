@@ -8,15 +8,13 @@ import DentalniTurizamContent from "../components/Services/DentalniTurizamConten
 const ServiceDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Service Details"
+        pageTitle="Denatlni turizam"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Service Details"
+        homePageText="Početna"
+        activePageText="Denatlni turizam"
         bgImage="page-title-one"
       />
 

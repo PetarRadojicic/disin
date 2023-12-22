@@ -8,15 +8,13 @@ import GalerijaGrid from "../components/Blog/GalerijaGrid";
 const Blog = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Blog"
+        pageTitle="Galerija naših radova"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Blog"
+        homePageText="Početna"
+        activePageText="Galrija"
         bgImage="page-title-four"
       />
 

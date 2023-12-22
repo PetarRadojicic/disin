@@ -30,9 +30,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog2.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>
@@ -40,9 +41,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog3.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>
@@ -50,9 +52,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog4.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>
@@ -60,9 +63,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog5.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>
@@ -70,9 +74,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog6.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>
@@ -80,9 +85,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog7.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>
@@ -90,9 +96,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog8.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>
@@ -100,9 +107,10 @@ const GalerijaGrid = () => {
             <div className="col-md-6 col-lg-4">
               <div className="blog-item">
                 <div className="blog-top">
-                  <Link href="/blog-details">
-                    <img src="/images/blog/blog9.jpg" alt="Blog" />
-                  </Link>
+                  <ReactBeforeSliderComponent
+                    firstImage={img1_1}
+                    secondImage={img1_2}
+                  />
                 </div>
               </div>
             </div>

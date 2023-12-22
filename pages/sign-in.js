@@ -8,8 +8,6 @@ import SignInForm from "../components/authentication/SignInForm";
 const SignIn = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

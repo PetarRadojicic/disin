@@ -8,15 +8,13 @@ import OralnaHirurgijaIImplantologijaContent from "../components/Services/Oralna
 const ServiceDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
-        pageTitle="Service Details"
+        pageTitle="Oralna hirurgija i implantologija"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Service Details"
+        homePageText="Početna"
+        activePageText="Oralna hirurgija i implantologija"
         bgImage="page-title-one"
       />
 

@@ -11,21 +11,21 @@ const Footer = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="footer-item">
                 <div className="footer-contact pe-2">
-                  <h3>Contact Us</h3>
+                  <h3>Kontakt</h3>
                   <ul>
                     <li>
                       <i className="icofont-ui-message"></i>
-                      <a href="mailto:info@disin.com">info@disin.com</a>
-                      <a href="mailto:hello@disin.com">hello@disin.com</a>
+                      <a href="mailto:dentumbgd@gmail.com">dentumbgd@gmail.com</a>
+                      <a href="mailto:drmandicuros@gmail.com">drmandicuros@gmail.com</a>
+                      <a href="mailto:vladanamandic@gmail.com">vladanamandic@gmail.com</a>
                     </li>
                     <li>
                       <i className="icofont-stock-mobile"></i>
-                      <a href="tel:+07554332322">Call: +07 554 332 322</a>
-                      <a href="tel:+236256256365">Call: +236 256 256 365</a>
+                      <a href="tel:+381694444321">+381 69 4444 321</a>
                     </li>
                     <li>
                       <i className="icofont-location-pin"></i>
-                      210-27 Quadra, Market Street, Victoria Canada
+                      Neznanog junaka br. 5, Dedinje, Beograd
                     </li>
                   </ul>
                 </div>
@@ -35,25 +35,19 @@ const Footer = () => {
             <div className="col-sm-6 col-lg-2">
               <div className="footer-item">
                 <div className="footer-quick">
-                  <h3>Quick Links</h3>
+                <h3>Brzi linkovi</h3>
                   <ul>
                     <li>
-                      <Link href="/about">About us</Link>
+                      <Link href="/ONama">O Nama</Link>
                     </li>
                     <li>
-                      <Link href="/about">Blog</Link>
+                      <Link href="/about">Galerija</Link>
                     </li>
                     <li>
-                      <Link href="/blog-details">Our Expertise</Link>
+                      <Link href="/doctor">Doktori</Link>
                     </li>
                     <li>
-                      <Link href="/faq">Faq</Link>
-                    </li>
-                    <li>
-                      <Link href="/doctor">Doctors</Link>
-                    </li>
-                    <li>
-                      <Link href="/contact">Contact us</Link>
+                      <Link href="/contact">Kontakt</Link>
                     </li>
                   </ul>
                 </div>
@@ -63,25 +57,28 @@ const Footer = () => {
             <div className="col-sm-6 col-lg-3">
               <div className="footer-item">
                 <div className="footer-quick">
-                  <h3>Our Services</h3>
+                  <h3>Naše Usluge</h3>
                   <ul>
                     <li>
-                      <Link href="/service-details">Dental Care</Link>
+                      <Link href="/estetska-stomatologija">Estetska stomatologija</Link>
                     </li>
                     <li>
-                      <Link href="/service-details">Cardiology</Link>
+                      <Link href="/protetika">Protetika</Link>
                     </li>
                     <li>
-                      <Link href="/service-details">Hijama Therapy</Link>
+                      <Link href="/rekonstruktivna-stomatologija-i-endodoncija">Rekonstruktivna stomatologija i endodoncija</Link>
                     </li>
                     <li>
-                      <Link href="/service-details">Massage Therapy</Link>
+                      <Link href="/decja-i-preventivna-stomatologija">Decja i preventivna stomatologija</Link>
                     </li>
                     <li>
-                      <Link href="/service-details">Ambluance Sevices</Link>
+                      <Link href="/oralna-hirurgija-i-implantologija">Oralna hirurgija i implantologija</Link>
                     </li>
                     <li>
-                      <Link href="/service-details">Medicine</Link>
+                      <Link href="/parodontologija">Parodontologija</Link>
+                    </li>
+                    <li>
+                      <Link href="/dentalni-turizam">Dentalni turizam</Link>
                     </li>
                   </ul>
                 </div>
@@ -91,20 +88,20 @@ const Footer = () => {
             <div className="col-sm-6 col-lg-3">
               <div className="footer-item">
                 <div className="footer-feedback">
-                  <h3>Feedback</h3>
+                  <h3>Vaš utisak</h3>
                   <form>
                     <div className="form-group">
                       <input
                         type="text"
                         className="form-control"
-                        placeholder="Name"
+                        placeholder="Ime i prezime"
                       />
                     </div>
                     <div className="form-group">
                       <input
                         type="text"
                         className="form-control"
-                        placeholder="Phone"
+                        placeholder="Telefon"
                       />
                     </div>
                     <div className="form-group">
@@ -112,12 +109,12 @@ const Footer = () => {
                         className="form-control"
                         id="your_message"
                         rows="3"
-                        placeholder="Message"
+                        placeholder="Poruka"
                       ></textarea>
                     </div>
                     <div className="text-left">
                       <button type="submit" className="btn feedback-btn">
-                        SUBMIT
+                        Pošalji
                       </button>
                     </div>
                   </form>
@@ -133,8 +130,8 @@ const Footer = () => {
           <div className="copyright-item">
             <p>
               Copyright &copy; {currentYear} Design & Developed by{" "}
-              <a href="https://hibootstrap.com/" target="_blank">
-                HiBootstrap
+              <a href="#" target="_blank">
+                Dentum
               </a>
             </p>
           </div>

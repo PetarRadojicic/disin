@@ -46,8 +46,6 @@ const AboutContent = () => {
                     Dugogodisnje iskustvo
                   </li>
                 </ul>
-
-                {/* <Link href="/about">Know More</Link> */}
               </div>
             </div>
           </div>

@@ -8,8 +8,6 @@ import SignUpForm from "../components/authentication/SignUpForm";
 const SignUp = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

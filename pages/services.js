@@ -9,8 +9,6 @@ import Footer from "../components/_App/Footer";
 const Services = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

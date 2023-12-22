@@ -8,8 +8,6 @@ import DepartmentsCard from "../components/Departments/DepartmentsCard";
 const Departments = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

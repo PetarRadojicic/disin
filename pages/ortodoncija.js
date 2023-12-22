@@ -8,8 +8,6 @@ import OrtodoncijaContent from "../components/Services/OrtodoncijaContent";
 const ServiceDetails = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

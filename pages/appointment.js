@@ -8,8 +8,6 @@ import AppointmentForm from "../components/Appointment/AppointmentForm";
 const Appointment = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner

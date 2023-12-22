@@ -7,8 +7,6 @@ import Footer from "../components/_App/Footer";
 const TermsCondition = () => {
   return (
     <>
-      <TopHeader />
-
       <Navbar />
 
       <PageBanner
