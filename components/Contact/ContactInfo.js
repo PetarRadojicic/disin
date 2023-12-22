@@ -9,9 +9,9 @@ const ContactInfo = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="location-item">
                 <i className="icofont-location-pin"></i>
-                <h3>Location</h3>
+                <h3>Lokacija</h3>
                 <p>
-                  2108-267 Road Quadra, Toronto, <br /> Victiria Canada
+                  Neznanog junaka br. 5, <br /> Dedinje, Beograd
                 </p>
               </div>
             </div>
@@ -20,17 +20,17 @@ const ContactInfo = () => {
               <div className="location-item">
                 <i className="icofont-ui-message"></i>
                 <h3>Email</h3>
-                <p>hello@disin.com</p>
-                <p>emailexample@name.com</p>
+                <p>dentumbgd@gmail.com</p>
+                <p>drmandicuros@gmail.com</p>
+                <p>vladanamandic@gmail.com</p>
               </div>
             </div>
 
             <div className="col-sm-6 col-lg-4">
               <div className="location-item">
                 <i className="icofont-ui-call"></i>
-                <h3>Phone</h3>
-                <p>+07 5554 3332 322</p>
-                <p>+07 5554 3332 322</p>
+                <h3>Telefon</h3>
+                <p>+381 69 4444 321</p>
               </div>
             </div>
           </div>

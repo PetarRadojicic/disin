@@ -13,10 +13,10 @@ const Contact = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Contact Us"
+        pageTitle="Kontakt"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Contact Us"
+        homePageText="Početna"
+        activePageText="Kontaktirajte nas"
         bgImage="page-title-one"
       />
 

@@ -15,7 +15,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-doctor"></i>
-                  <Link href="/service-details">
+                  <Link href="/estetska-stomatologija">
                     <h3>Estetska stomatologija</h3>
                   </Link>
                   <p>
@@ -30,7 +30,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-helicopter"></i>
-                  <Link href="/service-details">
+                  <Link href="/protetika">
                     <h3>Protetika</h3>
                   </Link>
                   <p>
@@ -45,7 +45,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-helicopter"></i>
-                  <Link href="/service-details">
+                  <Link href="/rekonstruktivna-stomatologija-i-endodoncija">
                     <h3>Ortodoncija</h3>
                   </Link>
                   <p>
@@ -60,7 +60,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-architecture"></i>
-                  <Link href="/service-details">
+                  <Link href="/rekonstruktivna-stomatologija-i-endodoncija">
                     <h3>Rekonstruktivna stomatologija i endodoncija</h3>
                   </Link>
                   <p>
@@ -75,7 +75,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-user-male"></i>
-                  <Link href="/service-details">
+                  <Link href="/decja-i-preventivna-stomatologija">
                     <h3>Dečja i preventivna stomatologija</h3>
                   </Link>
                   <p>
@@ -90,7 +90,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-ambulance-cross"></i>
-                  <Link href="/service-details">
+                  <Link href="/oralna-hirurgija-i-implantologija">
                     <h3>Oralna hirurgija i implantologija</h3>
                   </Link>
                   <p>
@@ -105,7 +105,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-ambulance-cross"></i>
-                  <Link href="/service-details">
+                  <Link href="/parodontologija">
                     <h3>Parodontologija</h3>
                   </Link>
                   <p>
@@ -120,7 +120,7 @@ const Services = () => {
               <div className="service-item style-3">
                 <div className="service-front">
                   <i className="icofont-home"></i>
-                  <Link href="/service-details">
+                  <Link href="/dentalni-turizam">
                     <h3>Dentalni turizam</h3>
                   </Link>
                   <p>

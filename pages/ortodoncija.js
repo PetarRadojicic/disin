@@ -11,10 +11,10 @@ const ServiceDetails = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Service Details"
+        pageTitle="Ortodoncija"
         homePageUrl="/"
-        homePageText="Home"
-        activePageText="Service Details"
+        homePageText="Početna"
+        activePageText="Ortodoncija"
         bgImage="page-title-one"
       />
 

@@ -117,6 +117,16 @@ const Navbar = () => {
                       </li>
                       <li className="nav-item">
                         <Link
+                          href="/ortodoncija/"
+                          className={`nav-link ${
+                            currentPath == "/ortodoncija/" && "active"
+                          }`}
+                        >
+                          Ortodoncija
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link
                           href="/rekonstruktivna-stomatologija-i-endodoncija/"
                           className={`nav-link ${
                             currentPath == "/rekonstruktivna-stomatologija-i-endodoncija/" && "active"

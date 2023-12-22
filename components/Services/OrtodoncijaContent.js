@@ -1,4 +1,4 @@
-import React from "react"; 
+import React from "react";
 
 const OrtodoncijaContent = () => {
   return (
@@ -8,41 +8,15 @@ const OrtodoncijaContent = () => {
           <div className="services-details-img">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
-            <h2>Estetska stomatologija</h2>
+            <h2>Ortodoncija</h2>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              Među pacijentima popularan termin ortodoncija je zadužen za
+              uspostavljanje pravilnog odnosa među zubima, što mišiće, vilični
+              zglob i celokupan sistem za žvakanje održava u ravnoteži i time
+              postiže adekvatnu fizionomiju lica.
             </p>
-
-            <blockquote>
-              <i className="icofont-quote-left"></i>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint
-              optio rem magni, dolorum aut vel nostrum quae, fugit
-              necessitatibus eius perferendis. Quia optio tenetur pariatur
-              aliquam obcaecati enim quam eum?Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Sint optio rem magni, dolorum aut
-              vel nostrum quae, fugit necessitatibus eius perferendis. Quia
-              optio tenetur pariatur aliquam obcaecati enim quam eum?
-            </blockquote>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              Ortodontski aparati se dele na <b>mobile</b> I <b>fiksne</b>.
             </p>
           </div>
 
@@ -54,22 +28,19 @@ const OrtodoncijaContent = () => {
             </div>
             <div className="col-lg-7">
               <div className="service-details-inner">
-                <h2>We Always Take Care Our Patient</h2>
+                <h2>Mobilni aparati</h2>
                 <p>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Architecto blanditiis obcaecati veritatis magnam pariatur
-                  molestiae in maxime. Animi quae vitae in inventore. Totam
-                  mollitia aspernatur provident veniam aperiam placeat impedit!
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Saepe rem natus nobis, dolorum nam excepturi iure autem nemo
-                  ducimus temporibus facere, est eum voluptatem, culpa optio
-                  fugit assumenda quod? Praesentium.
+                  su indikovani za period rasta i razvoja zaključno sa
+                  pubertetom, dok su <b>fiksni aparati</b> namenjeni odraslim
+                  pacijentima i godine više ne predstavljaju ograničenje u
+                  terapiji.
                 </p>
+                <br></br>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Id,
-                  laudantium ullam, iure distinctio officia libero voluptatem
-                  obcaecati vero deleniti minima nemo itaque alias nisi eveniet
-                  soluta architecto quae laboriosam unde.
+                  Tokom ortodontske terapije pacijenti su u obavezi da pojačano
+                  vode računa o higijeni zuba, redovno dolaze na kontrole i po
+                  završetku terapije određeno vreme nose mobilne nadoknade kako
+                  ne bi došlo do recidiva.
                 </p>
               </div>
             </div>
