@@ -14,7 +14,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-doctor"></i>
+                <img src="/images/ICO_2.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/estetska-stomatologija">
                     <h3>Estetska stomatologija</h3>
                   </Link>
@@ -29,7 +29,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-helicopter"></i>
+                <img src="/images/ICO_3.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/protetika">
                     <h3>Protetika</h3>
                   </Link>
@@ -44,7 +44,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-helicopter"></i>
+                <img src="/images/ICO_4.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/rekonstruktivna-stomatologija-i-endodoncija">
                     <h3>Ortodoncija</h3>
                   </Link>
@@ -59,7 +59,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-architecture"></i>
+                <img src="/images/ICO_5.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/rekonstruktivna-stomatologija-i-endodoncija">
                     <h3>Rekonstruktivna stomatologija i endodoncija</h3>
                   </Link>
@@ -74,7 +74,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-user-male"></i>
+                <img src="/images/ICO_1.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/decja-i-preventivna-stomatologija">
                     <h3>Dečja i preventivna stomatologija</h3>
                   </Link>
@@ -89,7 +89,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-ambulance-cross"></i>
+                <img src="/images/ICO_6.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/oralna-hirurgija-i-implantologija">
                     <h3>Oralna hirurgija i implantologija</h3>
                   </Link>
@@ -104,7 +104,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-ambulance-cross"></i>
+                <img src="/images/ICO_7.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/parodontologija">
                     <h3>Parodontologija</h3>
                   </Link>
@@ -119,7 +119,7 @@ const Services = () => {
             <div className="col-sm-6 col-lg-4">
               <div className="service-item style-3">
                 <div className="service-front">
-                  <i className="icofont-home"></i>
+                <img src="/images/ICO_8.png" alt="doctor" width="60px" height="60px" style={{ marginBottom: '25px' }} />
                   <Link href="/dentalni-turizam">
                     <h3>Dentalni turizam</h3>
                   </Link>
