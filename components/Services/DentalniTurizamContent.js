@@ -6,7 +6,7 @@ const DentalniTurizamContent = () => {
       <div className="service-details-area ptb-100">
         <div className="container">
           <div className="services-details-img">
-            <img src="/images/service-details-bg.jpg" alt="Service Details" />
+            <img src="/images/Services/T_1.jpg" alt="Service Details" />
 
             <h2>Dentalni turizam</h2>
             <p>

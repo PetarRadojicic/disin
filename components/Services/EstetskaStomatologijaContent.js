@@ -6,7 +6,7 @@ const EstetskaStomatologijaContent = () => {
       <div className="service-details-area ptb-100">
         <div className="container">
           <div className="services-details-img">
-            <img src="/images/service-details-bg.jpg" alt="Service Details" />
+            <img src="/images/Services/ES_1.jpg" alt="Service Details" />
 
             <h2>Estetska stomatologija</h2>
             <p>
@@ -27,7 +27,7 @@ const EstetskaStomatologijaContent = () => {
           <div className="row">
             <div className="col-lg-5">
               <div className="service-details-inner-left">
-                <img src="/images/signup-bg.jpg" alt="Service" />
+                <img src="/images/Services/ES_2.jpg" alt="Service" />
               </div>
             </div>
             <div className="col-lg-7">
@@ -81,7 +81,7 @@ const EstetskaStomatologijaContent = () => {
             <div className="col-lg-1"></div>
             <div className="col-lg-5">
               <div className="service-details-inner-left">
-                <img src="/images/signup-bg.jpg" alt="Service" />
+                <img src="/images/Services/ES_3.jpg" alt="Service" />
               </div>
             </div>
           </div>

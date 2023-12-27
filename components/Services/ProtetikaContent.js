@@ -5,7 +5,7 @@ const ProtetikaContent = () => {
     <>
       <div className="service-details-area ptb-100">
         <div className="container">
-          <div className="services-details-img">
+          <div className="/images/Services/PRO_1.jpg">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
             <h2>Fiksna protetika podrazumeva vinire, krunce i mostove.</h2>
@@ -23,7 +23,7 @@ const ProtetikaContent = () => {
           <div className="row">
             <div className="col-lg-5">
               <div className="service-details-inner-left">
-                <img src="/images/signup-bg.jpg" alt="Service" />
+                <img src="/images/Services/PRO_2.jpg" alt="Service" />
               </div>
             </div>
             <div className="col-lg-7">
@@ -74,7 +74,7 @@ const ProtetikaContent = () => {
             <div className="col-lg-1"></div>
             <div className="col-lg-5">
               <div className="service-details-inner-left">
-                <img src="/images/signup-bg.jpg" alt="Service" />
+                <img src="/images/Services/PRO_3.jpg" alt="Service" />
               </div>
             </div>
           </div>
@@ -83,7 +83,7 @@ const ProtetikaContent = () => {
           <div className="row">
             <div className="col-lg-5">
               <div className="service-details-inner-left">
-                <img src="/images/signup-bg.jpg" alt="Service" />
+                <img src="/images/Services/PRO_4.jpg" alt="Service" />
               </div>
             </div>
             <div className="col-lg-7">

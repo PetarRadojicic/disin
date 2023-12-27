@@ -6,7 +6,7 @@ const DecjaIPreventivnaStomatologijaContent = () => {
       <div className="service-details-area ptb-100">
         <div className="container">
           <div className="services-details-img">
-            <img src="/images/service-details-bg.jpg" alt="Service Details" />
+            <img src="/images/Services/D_1.jpg" alt="Service Details" />
 
             <h2>Decja i preventivna stomatologija</h2>
             <p>U eri XXI veka preventivna zaštita predstavlja pola zdravlja.</p>
